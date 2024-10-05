@@ -1,0 +1,37 @@
+
+.nav{
+  display:flex; 
+  justify-content:space-between; 
+  color:hsl(266, 59%, 76%); 
+
+}
+
+.header-title{
+ padding:1rem; 
+ font-size:2rem; 
+
+}
+
+.header-nav{
+  align-content:center;
+  
+}
+
+.header-nav a{
+  padding:1rem; 
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

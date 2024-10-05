@@ -1,9 +1,10 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function f() {
   return (
 
-    <p>Cooney</p>
+  <p>2</p>
     
+
   );
 }
