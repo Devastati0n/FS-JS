@@ -19,7 +19,7 @@
 
 
 body {
-  color: ghostwhite; 
+  color:pink; 
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
   background:linear-gradient(to right, var(--color-background-dark), var(--color-background-light)); 
